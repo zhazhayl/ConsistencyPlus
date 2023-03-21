@@ -32,3 +32,6 @@ public class ConsistencyPlus implements ModInitializer {
 		MetalRegistryEntryGroupImpl.WAXABLE.forEach((no, yes) -> OxidizableBlocksRegistry.registerWaxableBlockPair(no.get(), yes.get()));
 	}
 }
+
+
+111111111
